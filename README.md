@@ -1,2 +1,7 @@
-# Online-shopping-system
-Explore an engaging online shopping website crafted using the dynamic power of PHP and enhanced with captivating CSS styles. Leveraging the efficiency of SQL databases, this platform ensures seamless data storage for an exceptional shopping experience. Discover a world of products, deals, and convenience, all within a user-friendly interface.
+# online-shopping-with-advanced-admin-page
+Updated version
+
+
+online shopping system with both admin and user layouts.
+
+admin login details  Email=admin@gmail.com and Password=123456789.
